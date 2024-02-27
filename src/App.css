@@ -1,0 +1,25 @@
+.cards{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.blue{
+  color: blue;
+  text-decoration: none;
+}
+
+.red{
+  color: red;
+  text-decoration: none;
+}
+.AddFil{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 7px;
+  margin-bottom: 22px;
+}
+.carC{
+  display: flex;
+  justify-content: space-around;
+}
